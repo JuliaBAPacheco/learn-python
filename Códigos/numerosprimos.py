@@ -1,3 +1,5 @@
+'''Script para saber se um número é primo'''
+
 import math
 
 number=int(input('insert a number'))
